@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>qml/LyricsView.qml</file>
+<file>qml/LyricsPathPage.qml</file>
+<file>qml/main.qml</file>
+<file>qml/PathPage.qml</file>
+<file>qml/PlayList.qml</file>
+<file>qml/PlayListPage.qml</file>
+<file>qml/PlayPage.qml</file>
+<file>qml/TagPage.qml</file>
+</qresource>
+</RCC>

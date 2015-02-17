@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.0.1
+Name=MusicBox
+GenericName=musicbox
+Comment=musicbox
+Icon=icon-m-ovi-service-music
+Exec=invoker --single-instance --type=e /opt/musicbox/bin/musicbox
+Terminal=false
+Type=Application

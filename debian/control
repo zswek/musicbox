@@ -1,0 +1,13 @@
+Source: musicbox
+Section: user/other
+Priority: extra
+Maintainer: zsw_ek <zsw_ek@163.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.4
+Homepage: https://github.com/zswek/musicbox
+
+Package: musicbox
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+XB-Maemo-Display-Name: MusicBox
+Description: A music player for Harmattan,use mplayer.
